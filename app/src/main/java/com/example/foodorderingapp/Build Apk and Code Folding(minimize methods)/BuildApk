@@ -1,0 +1,20 @@
+                                             Steps to build and install an apk file in the mobile
+
+There are two ways to install an apk file:
+1. Using the USB cable
+2. Build the apk
+
+-> Using the USB cable:
+    - Connect your mobile to pc/laptop through the USB cable
+    - Open developer options in your mobile
+    - Enable USB debugging in the developer option
+    - Then your mobile is connected with the android studio
+    - Now select your mobile model name and run the app
+    - It will install the app and you can check the app in your mobile
+
+-> Build the apk:
+    - You can see build option in the menu of android studio
+    - Click on the build option
+    - Then select Build Bundle(s)/Apk(s) option
+    - Then select Build Apk option
+    - Now you will get the apk file and install it to your mobile

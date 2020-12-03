@@ -1,0 +1,9 @@
+                                          Code folding is used to minimize the code
+
+-> Code folding is used to minimize the methods, minimize import etc.
+-> To use code folding open android studio project:
+        - Go to File->Settings->Editor->General->Code Folding
+-> After moving to code folding their are different options available you can choose as per your requirement such as:
+        - Imports              If you enable this option all import statement in your project will be minimized
+        - Method bodies        If you enable this option all method bodies in your project will be minimized
+        - Inner class          If you enable this option all methods that you have override with class in your project will be minimized
