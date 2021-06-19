@@ -26,13 +26,9 @@ This is food ordering app where you can order your favorite food which you like 
   </tr>
   <tr>
     <td><b><i>Deleting Order</i></b></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td><img src="/Images/Screenshot_6.jpg" width="250" height="500"></td>
-    <td></td>
-    <td></td>
   </tr>
  </table>
 
