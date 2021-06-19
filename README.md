@@ -15,9 +15,9 @@ This is food ordering app where you can order your favorite food which you like 
     <td><img src="/Images/Screenshot_3.jpg" width="250" height="500"></td>
   </tr>
   <tr>
-    <td><b><i>Sign In/Up With Facebook</i></b></td>
-    <td><b><i>Reset Password</i></b></td>
-    <td><b><i>Sign In/Up With Phone</i></b></td>
+    <td><b><i>My Orders</i></b></td>
+    <td><b><i>Updating Order</i></b></td>
+    <td><b><i>Deleting Order</i></b></td>
   </tr>
   <tr>
     <td><img src="/Images/Screenshot_4.jpg" width="250" height="500"></td>
