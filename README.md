@@ -24,12 +24,12 @@ This is food ordering app where you can order your favorite food which you like 
     <td><img src="/Images/Screenshot_5.jpg" width="250" height="500"></td>
     <td><img src="/Images/Screenshot_6.jpg" width="250" height="500"></td>
   </tr>
-<!--   <tr>
+  <tr>
     <td><b><i>Select Your Country</i></b></td>
   </tr>
   <tr>
     <td><img src="/Images/Screenshot_7.jpg" width="250" height="500"></td>
-  </tr> -->
+  </tr>
  </table>
 
 ## Features
