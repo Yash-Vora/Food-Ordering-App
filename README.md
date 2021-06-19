@@ -4,12 +4,12 @@ This is food ordering app where you can order your favorite food which you like 
 ## Screenshots
 <!-- To set multiple images in grid view -->
 <p align="center">
-  <img src="/Images/Screenshot_1.jpg" width="250" height="500">
-  <img src="/Images/Screenshot_2.jpg" width="250" height="500">
-  <img src="/Images/Screenshot_3.jpg" width="250" height="500">
-  <img src="/Images/Screenshot_4.jpg" width="250" height="500">
-  <img src="/Images/Screenshot_5.jpg" width="250" height="500">
-  <img src="/Images/Screenshot_6.jpg" width="250" height="500">
+  <img src="/Images/Screenshot_1.jpg" width="250" height="500"/>
+  <img src="/Images/Screenshot_2.jpg" width="250" height="500"/>
+  <img src="/Images/Screenshot_3.jpg" width="250" height="500"/>
+  <img src="/Images/Screenshot_4.jpg" width="250" height="500"/>
+  <img src="/Images/Screenshot_5.jpg" width="250" height="500"/>
+  <img src="/Images/Screenshot_6.jpg" width="250" height="500"/>
 </p>
 
 ## Features
