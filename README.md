@@ -4,20 +4,25 @@ This is food ordering app where you can order your favorite food which you like 
 ## Screenshots
 <!-- To set multiple images in grid view -->
 <!-- <p float="left"> -->
-<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
-<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
-<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
-<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="245" height="500"> -->
+<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500"> -->
+<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500"> -->
+<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500"> -->
+<!--   <img src="/Images/Instagram_App_Screenshot_1.jpg" width="250" height="500"> -->
 <!-- </p> -->
 
 ## Features
-- <b>Select your food</b>
-  - Create your own stories and also see your friends stories.
-- <b>Order your food</b>
-  - Create your own posts and also see your friends posts.
-- <b>Like,Comment,Share and Bookmark</b>
-  - You can like,comment,share and bookmark your friend posts.
-  - Your friend can like,comment,share and bookmark your posts.
+- <b>Select Your Food</b>
+  - You can select your favorite food from the list of the food.
+  - You can also search in the search bar to select your favorite food.
+- <b>Order Your Food</b>
+  - After selecting your food just click on that food and order your food.
+  - You can also select the quantity of food you want to order.
+- <b>Your Orders</b>
+  - You can see all your food that you have ordered in this page.
+- <b>Update Orders</b>
+  - You can also update your order by clicking on any of the ordered food.
+- <b>Delete Orders</b>
+  - You can also delete your orders by long clicking on any of the ordered item.
 
 ## How to run the app
 - Android studio must be installed in your laptop or pc.
