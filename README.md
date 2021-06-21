@@ -49,10 +49,10 @@ This is food ordering app where you can order your favorite food which you like 
   - You can also delete your orders by long clicking on any of the ordered item.
   
 ## Installation
-- <b>For installing `android studio` click on this link.</b> 
-  - [Install Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIibm3mZyk8QIVTteWCh3akwFDEAAYASABEgLNq_D_BwE&gclsrc=aw.ds#downloads "Android Studio")
-- <b>For more info related to `android studio` installation on different platform click on this link.</b>
-  - [Check For More Info](https://developer.android.com/studio/install "More Info")
+- For installing `android studio` click on this link.
+    - [Install Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIibm3mZyk8QIVTteWCh3akwFDEAAYASABEgLNq_D_BwE&gclsrc=aw.ds#downloads "Android Studio")
+- For more info related to `android studio` installation on different platform click on this link.
+    - [Check For More Info](https://developer.android.com/studio/install "More Info")
 
 ## How to run the app
 - Android studio must be installed in your laptop or pc.
